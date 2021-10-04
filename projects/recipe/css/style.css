@@ -1,0 +1,29 @@
+/* font-family: 'Dosis', sans-serif; */
+/* font-family: 'Nanum Myeongjo', serif; */
+
+body{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+h1{
+font-family: 'Dosis', sans-serif;
+color: #481C3C;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 400;
+}
+
+header{
+    color: darkblue;
+    font-weight: 600;
+}
+
+.ingredients{
+    background-color: #F1B388;
+    padding: 15px;
+}
+
