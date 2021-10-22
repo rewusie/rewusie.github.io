@@ -2,3 +2,11 @@ li{
     font-family: 'Annie Use Your Telescope', cursive;
     font-size: 60px;
 }
+
+h1,h2{
+    color:black;
+}
+
+body{
+    color:purple;
+}
